@@ -7,3 +7,5 @@ Y = Yellow
 O = Orange
 R = Red
 Vibgyor, Excelsior!
+
+And the Unicorn eats these rainbows.
