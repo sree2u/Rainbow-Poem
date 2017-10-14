@@ -1,9 +1,8 @@
-The Rainbow
-Violet
-Indigo
-Blue
-Green
-Yellow
-Orange
-Red
-Colors of a Poem.
+Colors of the Rainbow
+V = Violet
+I = Indigo
+B = Blue
+G = Green
+Y = Yellow
+O = Orange
+R = Red
